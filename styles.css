@@ -50,13 +50,13 @@ font-Weight:bold;
 font-size:18px;
 color:white;
 }
-
-
 #panel, #flip {
   padding: 5px;
   text-align: center;
 }
-
+#flip{
+  cursor: pointer;
+}
 #panel {
   padding: 50px;
   display: none;
